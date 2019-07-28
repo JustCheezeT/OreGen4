@@ -1,0 +1,9 @@
+name: Oregen4
+version: 1.0
+main: me.banbeucmas.oregen3.Oregen3
+authors: [Banbeucmas,InfiGamez]
+
+commands:
+  oregen4:
+    description: "Main command of the plugin"
+    aliases: [og4, og]
